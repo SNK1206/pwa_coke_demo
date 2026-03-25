@@ -6,7 +6,7 @@ import Prices from "../ecommerce/prices/pages/Prices";
 import Orders from "../ecommerce/orders/pages/Orders";
 import Payments from "../ecommerce/payments/pages/Payments";
 import Shippings from "../ecommerce/shippings/pages/Shippings";
-import Inventories from "./ecommerce/inventories/pages/Inventories";
+import Inventories from "../ecommerce/inventories/pages/Inventories";
 
 import Error from "../share/errors/pages/Error";
 
