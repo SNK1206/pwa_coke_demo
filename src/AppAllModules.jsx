@@ -1,6 +1,6 @@
 import { RouterProvider } from "react-router-dom";
 import  Router from "./navigation/NaviRoutesEducation";
-import Footer from "./share/pages/Footer";
+import Footer from "./share/footer/components/Footer";
 //FIC: import for redux
 import { GET_DATA_START } from "./security/redux/thunks";
 import { useDispatch } from "react-redux";

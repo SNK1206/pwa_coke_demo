@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client'
 import './share/css/allPages.css'
 //FIC: Add
 import AppAllModules from './AppAllModules';
-import AppDemo from './AppDemo';
+//import AppDemo from './AppDemo';
 //FIC: For Redux
 import { Provider } from "react-redux";
 import store from '../src/security/redux/store/store';
